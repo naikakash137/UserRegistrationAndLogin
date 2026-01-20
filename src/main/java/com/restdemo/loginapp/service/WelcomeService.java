@@ -1,4 +1,4 @@
-package com.restdemo.restapp;
+package com.restdemo.loginapp;
 
 import org.springframework.stereotype.Service;
 
