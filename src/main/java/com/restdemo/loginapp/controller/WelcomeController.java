@@ -1,5 +1,6 @@
-package com.restdemo.loginapp;
+package com.restdemo.loginapp.controller;
 
+import com.restdemo.loginapp.service.WelcomeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

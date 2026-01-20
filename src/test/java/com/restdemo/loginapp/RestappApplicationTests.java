@@ -1,4 +1,4 @@
-package com.restdemo.restapp;
+package com.restdemo.loginapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
